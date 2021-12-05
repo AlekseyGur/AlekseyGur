@@ -13,7 +13,7 @@ I do all my projects by myself. That's why I have skills in all sides of iT indu
 - Maketing, advertising, sells
 - HR
 
-I can help you to make your project from "zero". Even if you have just an idea of a project, it will be enough to make a full script of development.
+I can help you to make your project from "zero". Even if you have just an idea of a project, it will be enough to make a full script for development.
 
 <!---
 AlekseyGur/AlekseyGur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
