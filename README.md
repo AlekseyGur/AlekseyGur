@@ -12,6 +12,7 @@ I do all my projects by myself. That's why I have skills in all sides of iT indu
 - Design
 - Maketing, advertising, sells
 - HR
+- Investments
 
 I can help you to make your project from "zero". Even if you have just an idea of a project, it will be enough to make a full script for development.
 
