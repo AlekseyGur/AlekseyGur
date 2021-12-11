@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksey Gurzhiev
 - 👀 I’m interested in iT
-- :sound: I speak english and russian
+- :sound: I speak English and Russian
 - 📫 My contacts: alexgur.work@gmail.com, [t.me/alekseygur](https://t.me/alekseygur)
 
 I made more than 10 private projects. From SaaS projects to WebHosting: vhost (PHP+MySQL), VPS, etc. 
