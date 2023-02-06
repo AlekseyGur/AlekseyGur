@@ -3,7 +3,7 @@
 - :sound: I speak English and Russian
 - 📫 My contacts: alexgur.work@gmail.com, [t.me/alekseygur](https://t.me/alekseygur)
 
-I made more than 10 private projects. From SaaS projects to WebHosting: vhost (PHP+MySQL), VPS, etc. 
+I made more than 10 personal projects. From SaaS projects to WebHosting: vhost (PHP+MySQL), VPS, etc. 
 
 I do all my projects by myself. That's why I have skills in all sides of iT industry: 
 - Server and network administration
