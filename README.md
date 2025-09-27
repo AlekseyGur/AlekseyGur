@@ -1,52 +1,54 @@
-## 📊 Алексей Гуржиев
+## 📊 Aleksey Gurzhiev
 
-| **Категория** | **Информация** |
+| **Category** | **Details** |
 |---------------|----------------|
 | **Email** | alexgur.work@gmail.com |
 | **GitHub** | [AlekseyGur](https://github.com/AlekseyGur) |
 | **Telegram** | [alekseygur](https://t.me/alekseygur) |
 | **VK** | [alexgur](https://vk.com/alexgur) |
-| **Профессиональный опыт** | Программист-предприниматель в сфере IT (более 15 лет) |
-| **Специализация** | Создание и развитие проектов под ключ |
-| **Достижения** | 🎯 Более 10 крупных pet-проектов (от веб-хостинга до SaaS-решений) <br> 📚 Автор [книги](https://realbigdata.ru/) «Большие данные, цифровизация и машинное обучение для собственников и топ-менеджеров» (2023) |
+| **Professional Experience** | IT entrepreneur and software developer with 15+ years of experience |
+| **Specialization** | End-to-end development and scaling of software projects |
+| **Key Achievements** | 🎯 Delivered 10+ large-scale pet projects (from web hosting to SaaS solutions)<br> 📚 Author [of the book](https://realbigdata.ru/) «Big Data, Digital Transformation & Machine Learning for Business Owners and Executives» (2023) |
 
-### 🔍 Профессиональный профиль
+### 🔍 Professional Profile
 
-| **Компетенция** | **Описание** |
+| **Core Expertise** | **Description** |
 |-----------------|--------------|
-| **Основной профиль** | Опытный Java-разработчик с знаниями Spring-технологий и управленческим опытом |
-| **Дополнительные навыки** | Управление командой разработки, продуктовый менеджмент, разработка высоконагруженных систем |
+| **Core Expertise** | Experienced Java developer with deep knowledge of Spring ecosystem and hands-on leadership experience |
+| **Additional Skills** | Engineering team leadership, product management, high-load system architecture |
 
-### 🎓 Образование
+### 🎓 Education
 
-| **Тип образования** | **Специальность/Квалификация** | 
+| **Level** | **Qualification** | 
 |---------------------|-------------------------------|
-| **Высшее** | Инженер-физик, Физика атомного ядра и частиц |
-| **Профессиональная переподготовка** | Инженер баз данных |
-| | Аналитик больших данных | 
-| | Специалист по искусственному интеллекту | 
-| | Менеджер продуктов в IT | 
-| | Программист Java (Spring) | 
-| | Программист Java (Spring) - Middle | 
-| | Руководитель команды разработки (Teamlead) | 
+| **University Degree** | Engineer-Physicist, Nuclear and Particle Physics |
+| **Professional Retraining** | Database Engineer |
+| | Big Data Analyst | 
+| | AI Specialist | 
+| | IT Product Manager | 
+| | Java (Spring) Developer | 
+| | Java (Spring) Developer – Middle Level | 
+| | Engineering Team Lead | 
 
-### 🛠 Ключевые компетенции
+### 🛠 Key Competencies
 
-| **Направление** | **Технологии и инструменты** |
-|----------------|----------------------------|
-| **Java и Spring** | Spring Boot, Spring Web MVC, Spring WebFlux, Spring Data JPA, Spring Security, Spring Cloud |
-| **Микросервисы** | Kubernetes, Helm, Apache Kafka |
-| **Реактивное программирование** | Project Reactor |
-| **Базы данных** | SQL, работа с различными СУБД |
-| **CI/CD** | Docker, Git, Maven, Kubernetes, Helm |
-| **Тестирование** | JUnit, Mockito, Testcontainers |
-| **Big Data** | Hadoop, Apache Spark, Kafka, Airflow |
-| **Machine Learning** | Tensorflow, Keras, PyTorch, NLP |
-| **Веб-разработка** | HTML, PHP, JavaScript |
+| **Domain**                     | **Technologies & Tools**                                                                                                                                                                                                 |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Java & Spring Ecosystem**    | Spring Boot, Spring Web MVC, Spring WebFlux, Spring Data JPA, Spring Security, Spring Cloud (Config, Gateway, Feign, Circuit Breaker), Spring Cloud Stream, Spring for Apache Kafka, gRPC with Protobuf                |
+| **Microservices Architecture** | Service discovery (Eureka, Consul), API Gateway, distributed configuration (Spring Cloud Config + Git), inter-service communication (Feign, REST, gRPC), circuit breaking (Resilience4j / Spring Retry)               |
+| **Event-Driven Systems**       | Apache Kafka, Kafka Streams, Avro serialization, transactional messaging, log aggregation                                                                                                                                |
+| **Cloud-Native & Kubernetes**  | Kubernetes (K8s), Helm charts, Ingress controllers, ConfigMaps, Secrets, DNS configuration, service mesh concepts, deployment strategies                                                                                 |
+| **Observability & Monitoring** | Distributed tracing (Zipkin), metrics collection (Prometheus), visualization (Grafana), centralized logging (Log4j2 → Logstash → Elasticsearch → Kibana — ELK stack)                                                    |
+| **CI/CD & DevOps Automation**  | Jenkins pipelines, Docker, Git, Maven, infrastructure-as-code (Helm + K8s manifests), GitOps principles                                                                                                                   |
+| **Security**                   | OAuth2, JWT, OpenID Connect, Keycloak (custom themes, identity management), Spring Security integration, role-based access control (RBAC)                                                                                |
+| **Databases**                  | SQL, experience with multiple relational and NoSQL databases                                                                                                                                                            |
+| **Big Data**                   | Hadoop, Apache Spark, Kafka, Airflow                                                                                                                                                                                    |
+| **Machine Learning**           | TensorFlow, Keras, PyTorch, NLP                                                                                                                                                                                         |
+| **Web Development**            | HTML, PHP, JavaScript                                                                                                                                                                                                   |
 
-### 🚀 Текущие цели
+### 🚀 Current Goals
 
-| **Цель** | **Описание** |
+| **Objective** | **Description** |
 |----------|--------------|
-| **Позиция** | Java-разработчик с возможностью удаленной работы |
-| **Приоритеты** | Развитие современных IT-продуктов, работа с передовыми технологиями, профессиональный рост в разработке высоконагруженных систем |
+| **Target Role** | Java Developer (remote) |
+| **Priorities** | Building cutting-edge IT products, working with modern technologies, and growing expertise in high-load, scalable systems |
