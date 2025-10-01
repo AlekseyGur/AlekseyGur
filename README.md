@@ -7,7 +7,7 @@
 | **Telegram** | [alekseygur](https://t.me/alekseygur) |
 | **Linkedin** | [alexgur](https://www.linkedin.com/in/alexgur/) |
 | **VK** | [alexgur](https://vk.com/alexgur) |
-| **Blog** | [alexgur]([https://vk.com/alexgur](https://www.alexgur.ru/)) |
+| **Blog** | [alexgur](https://www.alexgur.ru/)) |
 | **Professional Experience** | IT entrepreneur and software developer with 15+ years of experience |
 | **Specialization** | End-to-end development and scaling of software projects |
 | **Key Achievements** | 🎯 Delivered 10+ large-scale pet projects (from web hosting to SaaS solutions)<br> 📚 Author [of the book](https://realbigdata.ru/) «Big Data, Digital Transformation & Machine Learning for Business Owners and Executives» (2023) |
